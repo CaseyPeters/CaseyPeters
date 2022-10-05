@@ -1,6 +1,6 @@
 :wave: Hey Hi Hello There!
 
-I'm @CaseyPeters currently working at [Campspot](www.campspot.com) making camping a reality for everyone.
+I'm @CaseyPeters currently working at [Campspot](https://www.campspot.com) making camping a reality for everyone.
 
 I'm currently developing using the Quarkus framework.
 I'm interrested in containerizing everything.
